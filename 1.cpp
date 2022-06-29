@@ -7,7 +7,7 @@ wap to generate all prime num from 1 to 500 */
 int main ()
 {
 	int n,i,j,rem,count;
-	for (i=1;i<=500;i++)
+	for (i=1;i<=400;i++)
 	{
 		n=i;
 		count=0;
